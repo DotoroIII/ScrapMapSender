@@ -7,6 +7,7 @@
 
 Ce bot discord permet de jouer à plusieurs à Scrap Mechanic sans créer de serveur dédié, en facilitant le partage de la map du jeu entre les joueurs. Il est conçu pour simplifier l'expérience multijoueur en automatisant le processus de partage de la map du jeu.
 
+**Ce projet a été testé uniquement sur Windows et fonctionne avec Python 3.11.**
 
 ### Fonctionnalités
 
